@@ -1,4 +1,4 @@
-## Java + CloudFoundry CLI
+## Java + Cloud Foundry CLI
 🐳 Java + Cloud Foundry CLI Docker images
 
 ### Supported tags and respective `Dockerfile` links
